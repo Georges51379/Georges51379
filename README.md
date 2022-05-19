@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Georges
+- 👀 I’m interested in web development and game development industry
+- 🌱 I’m currently learning Data Engineer as a trainee, and on the other hand, I am developing my E-commerce website.
+- 📫 Contact me via email: boutros.georges513@gmail.com.
