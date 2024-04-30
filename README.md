@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Georges
 - 👀 I’m interested in web development and game development industry
-- 🌱 I’m currently learning Data Engineer as a trainee, and on the other hand, I am developing my E-commerce website.
+- 🌱 I currently have 2 years of experience as a Big Data Engineer, and on the other hand, I am continuing to chase my dream which is coding. So I have multiple projects ready and developed by me from scratch
 - 📫 Contact me via email: boutros.georges513@gmail.com.
